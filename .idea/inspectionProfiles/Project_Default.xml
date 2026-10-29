@@ -1,0 +1,102 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="agent-detector" />
+          <option value="altair" />
+          <option value="annotated-doc" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="asarPy" />
+          <option value="asyncpg" />
+          <option value="attrs" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="cloudpickle" />
+          <option value="Cython" />
+          <option value="detect-installer" />
+          <option value="dnspython" />
+          <option value="email-validator" />
+          <option value="fastapi" />
+          <option value="fastapi-cli" />
+          <option value="fastapi-cloud-cli" />
+          <option value="fastar" />
+          <option value="greenlet" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httptools" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="itsdangerous" />
+          <option value="Jinja2" />
+          <option value="joblib" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="logging" />
+          <option value="Markdown" />
+          <option value="markdown-it-py" />
+          <option value="MarkupSafe" />
+          <option value="mdurl" />
+          <option value="meson" />
+          <option value="narwhals" />
+          <option value="numpy" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="passlib" />
+          <option value="path" />
+          <option value="pathlib" />
+          <option value="pillow" />
+          <option value="protobuf" />
+          <option value="pyarrow" />
+          <option value="pydantic" />
+          <option value="pydantic-extra-types" />
+          <option value="pydantic-settings" />
+          <option value="pydantic_core" />
+          <option value="pydeck" />
+          <option value="Pygments" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="python-multipart" />
+          <option value="PyYAML" />
+          <option value="referencing" />
+          <option value="requests" />
+          <option value="rich" />
+          <option value="rich-toolkit" />
+          <option value="rignore" />
+          <option value="rpds-py" />
+          <option value="scikit-learn" />
+          <option value="scipy" />
+          <option value="sentry-sdk" />
+          <option value="setuptools" />
+          <option value="shellingham" />
+          <option value="six" />
+          <option value="SQLAlchemy" />
+          <option value="starlette" />
+          <option value="streamlit" />
+          <option value="threadpoolctl" />
+          <option value="toml" />
+          <option value="typer" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="uvloop" />
+          <option value="watchdog" />
+          <option value="watchfiles" />
+          <option value="websockets" />
+          <option value="wheel" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="auth.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
